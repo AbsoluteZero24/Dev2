@@ -17,4 +17,5 @@ echo "Connected successfully";
 echo "ini belajar pertamaku";
 echo "ini asik sekali";
 echo "ini otomatis loh";
+echo "ini baru";
 ?>
